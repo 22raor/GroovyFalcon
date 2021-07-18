@@ -56,7 +56,7 @@ public class Robot extends TimedRobot {
 
     /* An array of songs that are available to be played, can you guess the song/artists? */
   String[] _songs = new String[] {
-    "mega.chrp",
+    "mega2.chrp",
     "song2.chrp",
     "song3.chrp",
     "song4.chrp",
